@@ -24,3 +24,14 @@ https://github.com/reddit-archive/reddit/wiki/OAuth2
 
 Get your keys here:
 https://www.reddit.com/prefs/apps -> Create Application -> edit -> copy client secret & id
+
+
+### ShowCase
+
+![img.png](images/showcase2.png)
+
+![img.png](images/showcase3.png)
+
+![img.png](images/showcase1.png)
+
+![img.png](images/showcase4.png)
